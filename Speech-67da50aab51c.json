@@ -1,17 +1,17 @@
 {
   "type": "service_account",
-  "project_id": "speech-1609595980955",
-  "private_key_id": "67da50aab51cfbff33f834240a59ad7a277355da",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC2fffBeXrQbofN\nVDmQxPpPe2sunxL2II7FZzXWu1hopff4SjFrrnvJMNOHasPbwSi3+BgRchCeEc3X\nWuuOPlfdc8dYM2KoIlroydpHCeTdP5CJC17ysYvl/hUPzacG9OWfhE/IQ17srcBg\n90/qFyTCRIyhSB/p0THuZHmU83ESV5ZPQGefJ3C2mBnMrV35k7SQlKFepyySKzVX\nGkr02JSQuPk+kM8+HkvZiK21cfzF0kEOxIbeqvkaN4vlj18ybldTYJMviEXH138c\nVgRMNeEQhCAor62Skww9YId/UNooh4LTY4yxIYBVDlBxDReWWdYJp7s9WG/ROq+0\nIvMyQP8dAgMBAAECggEAAUTmjqTKTaTI66lPZvTJhGqobUc+YPWZc0EdKoR4znws\njtzTc5sm0a3SXI70ab+AJhrxJwUEueZ5zDjzNKa1dGQl9hguR7AslpFreTKO3K99\nJoGB9fsD5dXMh0EpxjWABfvBXBC9qHu4apCqMICUs8C5Zvv2iUyi7O1ILdjJy2lL\nTBie4U92UqBnVF7M1+s3axP/qTmVhTWgNT7VIYJG3u+Jml21fO2f+EsKy6GDYL3s\nXST4UbOGrFp30RSUVSldn4K8idlovayjLM5iWv5FdewCGgfoDBWEzcClMcvALIST\nAqO/RJnsf5PS/DGsGa3QU1Onmn7q41PtK78iTo35KQKBgQDe2/8k2lLSpSyx/qg/\nyONKE6YA07yYHKBeYIuqEUVn1mWtcehAC4YEGTCXhJZNUWF7rC1MvpVo8oXSMY5v\nCFO1WoyQXTS9beSPTK3bSgcekOtHX+YpzuVMxmmmjc0DqEvAiOI2xfFNJ+NB6ITi\nDweH/h246FRkESM/axVrpZVpQwKBgQDRoTvYNridZOOBFRfIaVKNJYNeU4wMljmJ\nVjTsVh2CK638OGM+NTcK4vlc9WWKfZH5tTgrBRX6EVXDsUjpsdMrxvLwJPwUKX6h\nHUqE2WPNP71HuY4O0OdKC+5bw+zTerIZ2t4gbRPfdGHo9AE9wajM97RMg4eTKfpz\nVvxmRf3AHwKBgAuemtH4FCNpe0gYh/szZS5ikeAvKgEgVPg2vnFyjxTX59tAOiTE\ntQsXqSHtRsznNlb1ZjM/KJkdM/7+mHePjpXBD90jDvHlfeo+zD3HwVFFqw7AoEaD\nxA7ZtX56nDrZloGGYY0LiwZD0ySHlA4ZTII5rKEMdAH3psfStH41VvHzAoGAbIos\nH0YuDqinNzXBq64E5TowK83cbMP3pIlzO49XFgghvL9Be3s4NbXR4XTaD3v28jEH\nlRa8C0+gdYO8ueut6DPJo9eygYn+m9M7u0+H4kUHbzS/PiKiLu/AidkHLXSQ9Nwj\nOOzhZkivTVvRrLUx/nae7yMHNoZ8u+2lIBtLSIcCgYBn67J4Q0f4KI3n3mzPpqOF\nLCcIyHY8HaXnvQ9VU3RfzFFl9yX2PLfarISkDZK7uFY9esSzsKkrfGDQer+8du8R\ncsHgYhkJ0gmP+si/u+O/dJ8TS33qbwGI+Szzbrsrnloe+/iU60DDKjI+JWCug0cX\nxR8y6in9lPoN09LNlJx22w==\n-----END PRIVATE KEY-----\n",
-  "client_email": "starting-account-l8b7jfr4pvv@speech-1609595980955.iam.gserviceaccount.com",
-  "client_id": "106628588569549707646",
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": "-----END PRIVATE KEY-----\n",
+  "client_email": "starting-account-",
+  "client_id": "",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/starting-account-l8b7jfr4pvv%40speech-1609595980955.iam.gserviceaccount.com",
-  "filepath": "/home/asheeshg01/input/",
-  "filepath1": "/home/asheeshg01/",
-  "output_filepath": "/home/asheeshg01/",
-  "bucketname": "audiofiles_ash",
-  "credential_path": "/home/asheeshg01/Speech-f22e193c0063.json"
+  "client_x509_cert_url": "",
+  "filepath": "",
+  "filepath1": "",
+  "output_filepath": "",
+  "bucketname": "",
+  "credential_path": ""
 }
